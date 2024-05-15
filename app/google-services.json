@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000955847947",
+    "project_id": "math--game-c8160",
+    "storage_bucket": "math--game-c8160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000955847947:android:01209493231c1b72ef6e0e",
+        "android_client_info": {
+          "package_name": "com.kaboom.kidsmathgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC18aCvHf3-UsrDk6mlxu5IkzJoa3k-UAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
