@@ -28,7 +28,7 @@ User can re-do the quiz again or Exit the App. <br>
 
 ## Usage
 Clone the repository and open it in Android Studio.  
-https://github.com/oluyalireuben/MathMinds-Game-firebase-
+https://github.com/frashasantoYT/Kids-Math-Game.git
 
 
 ## Setup your database
