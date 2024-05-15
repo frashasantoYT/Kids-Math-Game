@@ -1,4 +1,4 @@
-# MathMinds-Game
+# Kids Math Game
 ## Description About the math Game.
 Educational math game for grades 4-6, fostering a fun learning environment. Adaptive quizzes cover primary math topics. Engaging UI with vibrant visuals. Reinforce fundamental principles in an interactive way.
 
@@ -73,7 +73,7 @@ Feel free to contribute to the development of Math Game by opening issues and pu
 
 
 ## Contact Developer
-oluyalireuben1@gmail.com
+frashasanto111@gmail.com
 
  
 
